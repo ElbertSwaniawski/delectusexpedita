@@ -1,0 +1,28 @@
+{
+  "name": "delectusexpedita",
+  "version": "1.0.0",
+  "description": "Replacement for JSON.parse which converts long integers to strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/lab/bin/lab test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElbertSwaniawski/delectusexpedita.git"
+  },
+  "keywords": [
+    "node",
+    "json",
+    "voluptatum",
+    "occaecati"
+  ],
+  "author": "MillerBeatty",
+  "license": "public",
+  "bugs": {
+    "url": "https://github.com/ElbertSwaniawski/delectusexpedita.git/issues"
+  },
+  "devDependencies": {
+    "code": "^1.4.0",
+    "lab": "^5.10.0"
+  }
+}
